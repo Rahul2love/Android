@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="computer">Computer</string>
+    <string name="player">Player</string>
+    <string name="Lower">lower</string>
+    <string name="Higher">higher</string>
+</resources>
